@@ -66,7 +66,7 @@ color: #404BBF;
 }
 /*adrres menu*/
 /*secction 1*/
-.section-1 {
+.section-one {
     background-color: #2E2F42;
 }
 .title {
@@ -91,14 +91,14 @@ background-color: #404BBF;
 }
 /*section 1*/
 /*section 2*/
-.sect2-title {
+.sect-two-title {
         font-size: 20px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
-.sect2-p {
+.sect-two-p {
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -106,10 +106,10 @@ background-color: #404BBF;
 }
 /*section 2*/
 /*section 3*/
-.section-3 {
+.section-three {
     background-color: #F4F4FD;
 }
-.sect3-title {
+.sect-three-title {
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
@@ -136,10 +136,10 @@ background-color: #404BBF;
 }
 /*section 3*/
 /*section 4*/
-.section-4 {
+.section-four {
     background-color: #FFFFFF;
 }
-.sect4-title {
+.sect-four-title {
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
